@@ -1,0 +1,13 @@
+$border: 1px solid #ccc;
+$clr-grey: #dfe6e9;
+
+.menu {
+  margin: 0 10px 0 0;
+  padding: 14px;
+  border: $border;
+  background-color: $clr-grey;
+}
+
+.menu_wrapper {
+  margin-bottom: 30px;
+}
